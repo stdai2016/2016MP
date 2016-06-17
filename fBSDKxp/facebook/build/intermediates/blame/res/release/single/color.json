@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tizhao/AndroidStudioProjects/fBSDKxp/facebook/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/tizhao/AndroidStudioProjects/fBSDKxp/facebook/src/main/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/tizhao/AndroidStudioProjects/fBSDKxp/facebook/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/Users/tizhao/AndroidStudioProjects/fBSDKxp/facebook/src/main/res/color/com_facebook_button_text_color.xml"
+    }
+]
